@@ -1,0 +1,2 @@
+javadoc:
+javadoc --module-path "C:\Program Files\Java\javafx-sdk-18.0.1\lib" --add-modules javafx.controls -d ./javadoc -encoding UTF-8 -charset UTF-8 -docencoding UTF-8 Test.java Engine.java Triangle.java
